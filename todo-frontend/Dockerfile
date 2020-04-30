@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8:8.0
+FROM registry.access.redhat.com/ubi8:8.2
 
 LABEL version="1.0"
 LABEL description="To Do List application front-end"
